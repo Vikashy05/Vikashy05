@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1160 254" width="1160" height="254" role="img" aria-labelledby="title desc">
+  <title id="title">Vikash Yadav | AI Engineer</title>
+  <desc id="desc">Gold stars trace a constellation over a teal sound wave on a midnight blue background.</desc>
+  <defs>
+    <linearGradient id="sky" x1="0%" y1="0%" x2="100%" y2="60%" gradientUnits="objectBoundingBox">
+      <stop stop-color="#10172c"/><stop offset=".54" stop-color="#101e36"/><stop offset="1" stop-color="#142f43"/>
+    </linearGradient>
+    <radialGradient id="nebula"><stop stop-color="#3c8392" stop-opacity=".31"/><stop offset="1" stop-color="#18354b" stop-opacity="0"/></radialGradient>
+    <linearGradient id="signal" gradientUnits="userSpaceOnUse" x1="616" x2="1058" y1="0" y2="0"><stop stop-color="#337387"/><stop offset=".43" stop-color="#74dacd"/><stop offset=".76" stop-color="#9bdbd9"/><stop offset="1" stop-color="#3f8095"/></linearGradient>
+    <g id="flare"><path d="M0 -9Q1 -2 8 0Q1 1 0 9Q-1 2 -8 0Q-1 -1 0 -9Z" fill="#f6d690"/><circle r="2" fill="#fff2c7"/></g>
+    <clipPath id="bounds"><rect width="1160" height="254" rx="17"/></clipPath>
+  </defs>
+  <g clip-path="url(#bounds)">
+    <rect width="1160" height="254" fill="url(#sky)"/>
+    <ellipse cx="862" cy="168" rx="334" ry="184" fill="url(#nebula)"/>
+    <g fill="#c8d5db" opacity=".66">
+    <circle cx="34" cy="34" r="1.1"/>
+    <circle cx="63" cy="202" r="0.9"/>
+    <circle cx="101" cy="26" r="0.7"/>
+    <circle cx="146" cy="227" r="0.8"/>
+    <circle cx="248" cy="28" r="1.2"/>
+    <circle cx="355" cy="39" r="0.8"/>
+    <circle cx="402" cy="23" r="1.1"/>
+    <circle cx="488" cy="63" r="1"/>
+    <circle cx="520" cy="94" r="1"/>
+    <circle cx="534" cy="32" r="1.3"/>
+    <circle cx="564" cy="140" r="1"/>
+    <circle cx="587" cy="70" r="1"/>
+    <circle cx="623" cy="31" r="1.2"/>
+    <circle cx="648" cy="181" r="1"/>
+    <circle cx="655" cy="88" r="1.5"/>
+    <circle cx="687" cy="39" r="1"/>
+    <circle cx="718" cy="206" r="1.3"/>
+    <circle cx="749" cy="22" r="0.9"/>
+    <circle cx="777" cy="77" r="1"/>
+    <circle cx="791" cy="225" r="0.8"/>
+    <circle cx="817" cy="26" r="1.3"/>
+    <circle cx="848" cy="37" r="0.8"/>
+    <circle cx="906" cy="206" r="1"/>
+    <circle cx="951" cy="31" r="1"/>
+    <circle cx="979" cy="170" r="0.9"/>
+    <circle cx="1009" cy="220" r="1.3"/>
+    <circle cx="1033" cy="47" r="0.8"/>
+    <circle cx="1056" cy="178" r="1.1"/>
+    <circle cx="1092" cy="36" r="1.2"/>
+    <circle cx="1113" cy="213" r="1"/>
+    <circle cx="1135" cy="92" r="1.6"/>
+    </g>
+    <g fill="none" stroke="#9ebcc7" stroke-opacity=".12" stroke-width="1">
+      <ellipse cx="861" cy="131" rx="278" ry="79" transform="rotate(-12 861 131)"/>
+      <ellipse cx="861" cy="131" rx="237" ry="103" transform="rotate(-12 861 131)" stroke-dasharray="2 9"/>
+    </g>
+    <g fill="none" stroke="url(#signal)" stroke-width="3.3" stroke-linecap="round">
+    <path d="M616 133v12" opacity="0.40"/>
+    <path d="M629 125v20" opacity="0.45"/>
+    <path d="M642 116v32" opacity="0.50"/>
+    <path d="M655 118v22" opacity="0.55"/>
+    <path d="M668 121v12" opacity="0.60"/>
+    <path d="M681 107v38" opacity="0.64"/>
+    <path d="M694 97v58" opacity="0.69"/>
+    <path d="M707 110v34" opacity="0.73"/>
+    <path d="M720 116v26" opacity="0.77"/>
+    <path d="M733 108v46" opacity="0.80"/>
+    <path d="M746 91v88" opacity="0.83"/>
+    <path d="M759 104v68" opacity="0.86"/>
+    <path d="M772 118v48" opacity="0.88"/>
+    <path d="M785 97v96" opacity="0.90"/>
+    <path d="M798 81v134" opacity="0.92"/>
+    <path d="M811 101v98" opacity="0.93"/>
+    <path d="M824 120v64" opacity="0.94"/>
+    <path d="M837 109v86" opacity="0.94"/>
+    <path d="M850 80v142" opacity="0.94"/>
+    <path d="M863 62v176" opacity="0.93"/>
+    <path d="M876 92v110" opacity="0.92"/>
+    <path d="M889 108v72" opacity="0.90"/>
+    <path d="M902 96v90" opacity="0.88"/>
+    <path d="M915 74v126" opacity="0.86"/>
+    <path d="M928 93v82" opacity="0.83"/>
+    <path d="M941 105v50" opacity="0.80"/>
+    <path d="M954 95v66" opacity="0.77"/>
+    <path d="M967 80v94" opacity="0.73"/>
+    <path d="M980 99v54" opacity="0.69"/>
+    <path d="M993 109v34" opacity="0.65"/>
+    <path d="M1006 105v46" opacity="0.60"/>
+    <path d="M1019 119v22" opacity="0.55"/>
+    <path d="M1032 126v14" opacity="0.50"/>
+    <path d="M1045 124v26" opacity="0.45"/>
+    <path d="M1058 134v12" opacity="0.40"/>
+    </g>
+    <path d="M669 148L720 108L759 121L816 68L859 91L919 51L965 80L1017 61" fill="none" stroke="#e8c380" stroke-width="1.5" opacity=".77"/>
+    <g fill="#e9c889"><circle cx="669" cy="148" r="2.8"/><circle cx="720" cy="108" r="3.4"/><circle cx="759" cy="121" r="2.7"/><circle cx="859" cy="91" r="3.4"/><circle cx="965" cy="80" r="3.1"/><circle cx="1017" cy="61" r="2.8"/></g>
+    <use href="#flare" transform="translate(816 68)"/><use href="#flare" transform="translate(919 51) scale(1.26)"/>
+    <path d="M53 58h43" stroke="#edc880" stroke-width="3" stroke-linecap="round"/>
+    <text x="51" y="141" fill="#f7f4ed" font-family="Georgia, 'Times New Roman', serif" font-size="84" letter-spacing="-2">Vikash Yadav</text>
+    <text x="55" y="188" fill="#9edcd6" font-family="Arial, Helvetica, sans-serif" font-size="27" letter-spacing=".3">AI engineer</text>
+  </g>
+</svg>

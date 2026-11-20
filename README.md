@@ -1,64 +1,35 @@
-# Hi there, I'm Vikash 👋
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=61AFEF&center=true&vCenter=true&width=600&lines=AI+%26+Voice+Agent+Developer;LangGraph+%26+Groq+Specialist;Machine+Learning+Engineer;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="./assets/voice-constellation.svg" width="100%" alt="Vikash Yadav · AI engineer working on voice and on-device assistants. A constellation traces a sound wave." />
 </p>
 
-### 🚀 About Me
+I build AI assistants you can talk to. My favorite part is getting the interaction right, whether it’s letting you interrupt a spoken question or asking before an assistant taps something on your phone.
 
-I am an **AI Engineer** passionate about building real-time voice agents, autonomous LLM pipelines, and scalable Machine Learning systems.
+## Two projects you can try
 
-- 🎙️ **Specialization**: Full-Duplex Voice Agents, Speech-to-Text (STT), Real-time Interruption Handling & Edge TTS.
-- 🧠 **LLM Stack**: LangGraph, LangChain, Groq (Whisper & Llama 3), PyTorch, OpenAI API.
-- 🛠️ **Infrastructure**: Python 3.11+, PostgreSQL, Docker, FastAPI, REST APIs.
-- 🌱 Currently expanding real-time multimodal voice interaction models & Kaggle ML pipelines.
+### [Jarvis · an on-device Android assistant](https://github.com/Vikashy05/jarvis-phone-assistant)
 
----
+I built Jarvis for my Xiaomi Mi 11X. Give it a goal like **“Mute the media, then open YouTube.”** A small Qwen model runs on the phone and chooses one step at a time. You can review a proposed tap or text edit before it happens.
 
-### 🛠️ Tech Stack & Skills
+[Build and install Jarvis](https://github.com/Vikashy05/jarvis-phone-assistant#build-and-install-from-windows) · [Read the Kotlin planner](https://github.com/Vikashy05/jarvis-phone-assistant/blob/main/app/src/main/java/dev/local/jarvis/LocalPlanner.kt)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/LangGraph-FF6F61?style=for-the-badge" alt="LangGraph" />
-  <img src="https://img.shields.io/badge/Groq-STT%20%26%20LLM-f34b7d?style=for-the-badge" alt="Groq" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</p>
+[![GitHub stars for Jarvis](https://img.shields.io/github/stars/Vikashy05/jarvis-phone-assistant?style=flat&label=Jarvis%20stars&labelColor=21334c&color=f2c778)](https://github.com/Vikashy05/jarvis-phone-assistant)
 
----
+### [Jerry · a voice interviewer you can interrupt](https://github.com/Vikashy05/-voice-interview-agent)
 
-### 📌 Featured Projects
+Jerry asks seven machine learning questions and listens while it speaks. Try interrupting a question, then try a quick **“mm-hmm.”** Its interruption logic treats those differently. After the session, you can review the transcript and timing.
 
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| 🎙️ **[-voice-interview-agent](https://github.com/Vikashy05/-voice-interview-agent)** | Full-duplex voice technical interviewer with real-time barge-in detection and streaming speech synthesis. | `Python`, `Groq Whisper`, `LangGraph`, `Edge-TTS` |
-| 📄 **[AI Job Application Agent](https://github.com/Vikashy05)** | Agentic LLM workflow automating resume parsing, job fit evaluation, and application drafting. | `LangGraph`, `Groq`, `PostgreSQL` |
-| 📈 **[Sensor Anomaly Detector](https://github.com/Vikashy05)** | High-accuracy time-series anomaly detection pipeline with feature engineering & ensemble modeling. | `Python`, `XGBoost`, `Scikit-Learn` |
+[Run a practice interview](https://github.com/Vikashy05/-voice-interview-agent#running-the-app) · [Explore the interruption logic](https://github.com/Vikashy05/-voice-interview-agent/blob/main/interview_agent/interrupt.py)
 
----
+[![GitHub stars for Jerry](https://img.shields.io/github/stars/Vikashy05/-voice-interview-agent?style=flat&label=Jerry%20stars&labelColor=21334c&color=f2c778)](https://github.com/Vikashy05/-voice-interview-agent)
 
-### 📊 GitHub Activity & Stats
+## What I work with
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vikashy05&show_icons=true&theme=tokyonight&count_private=true" alt="Vikash's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vikashy05&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+| Area | Tools I use |
+| --- | --- |
+| Voice and language | Python, LangGraph, LangChain, Groq Whisper, Edge TTS |
+| On-device and enterprise assistants | Kotlin, MediaPipe, Microsoft Copilot Studio, Azure AI Search |
+| Machine learning and APIs | PyTorch, scikit-learn, FastAPI, PostgreSQL, Docker |
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vikashy05&theme=tokyonight" alt="GitHub Streak" />
-</p>
+I also work on résumé matching and anomaly detection in sensor data. If you’re building a voice assistant or running small models on Android, I’d love to compare notes.
 
----
-
-### 🌐 Connect & Collaborate
-
-- 💼 **GitHub Profile**: [@Vikashy05](https://github.com/Vikashy05)
-- 🤝 Open for collaborations on Voice AI, LLM Orchestration, and ML projects!
-
----
-<p align="center">
-  <i>⭐ If you like my projects, don't forget to leave a star on my repositories!</i>
-</p>
+If you try one of the projects and find it useful, a ★ on its repository helps other people discover it.
